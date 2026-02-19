@@ -9,6 +9,5 @@ public class Main {
         {
             System.out.println("You get a wrist band");
         }
-
     }
 }
